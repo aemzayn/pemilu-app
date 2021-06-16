@@ -1,0 +1,8 @@
+{
+  "short_name": "Pemilu PPI",
+  "name": "Pemilu PPI Turki 2020",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "content_security_policy": "script-src 'self' 'sha256-eE1k/Cs1U0Li9/ihPPQ7jKIGDvR8fYw65VJw+txfifw='; object-src 'self'"
+}

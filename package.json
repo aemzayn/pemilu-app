@@ -1,0 +1,12 @@
+{
+  "name": "pemilu-app",
+  "version": "1.0.0",
+  "description": "Open source voting app.",
+  "main": "index.js",
+  "keywords": [
+    "Voting app",
+    "Pemilu"
+  ],
+  "author": "Ahmad Muslih Zain",
+  "license": "MIT"
+}
